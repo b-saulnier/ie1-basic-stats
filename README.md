@@ -1,4 +1,7 @@
-# Basic Statistics
+
+Here is a commited change!
+
+Here is a second change!
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
